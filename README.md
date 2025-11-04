@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Douaa Khoudmi
   
- ## 🎓Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation 
+🎓 **Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation**
 
 🚀 Currently building intelligent systems that connect **AI** and **web development**.  
 
