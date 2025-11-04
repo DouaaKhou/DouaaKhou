@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Douaa Khoudmi
 
-🎓 Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation  
+## 🎓 Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation
 
 🚀 Currently building intelligent systems that connect **AI** and **web development**.  
 
@@ -24,7 +24,8 @@ I love designing impactful applications where creativity meets technology.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
