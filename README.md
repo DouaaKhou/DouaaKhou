@@ -34,14 +34,11 @@ I love designing impactful applications where creativity meets technology.
 
 ### Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/douaakhoudmi" target="_blank">
+  <a href="www.linkedin.com/in/douaa-khoudmi-4997041b2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="mailto:douaa.khoudmi29@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/DouaaKhou">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 </p>
 
