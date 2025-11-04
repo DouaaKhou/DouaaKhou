@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Douaa Khoudmi <h1>
+# 👋 Hi, I'm Douaa Khoudmi
   
  ## 🎓Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation 
 
