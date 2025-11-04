@@ -1,15 +1,18 @@
-# 👋 Hi, I'm Douaa Khoudmi
-  
-🎓 **Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation**
+<h1 align="center">👋 Hi, I'm Douaa Khoudmi</h1>
 
-🚀 Currently building intelligent systems that connect **AI** and **web development**.  
+<p align="center">
+🎓 Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation
+</p>
 
-I love designing impactful applications where creativity meets technology.
+<p align="center">
+🚀 Currently building intelligent systems connecting <strong>AI</strong> and <strong>Web Development</strong>. 
+I enjoy designing impactful applications where creativity meets technology.
+</p>
 
+---
 
-### Tech Stack
-
-<p align="left">
+### 💻 Tech Stack
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -25,13 +28,12 @@ I love designing impactful applications where creativity meets technology.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-
 </p>
 
 ---
 
-### Let's Connect
-<p align="left">
+### 📫 Let's Connect
+<p align="center">
   <a href="https://www.linkedin.com/in/douaa-khoudmi-4997041b2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
@@ -40,4 +42,4 @@ I love designing impactful applications where creativity meets technology.
   </a>
 </p>
 
-*"Building technology that inspires and empowers people."*
+<p align="center"><em>"Building technology that inspires and empowers people."</em></p>
