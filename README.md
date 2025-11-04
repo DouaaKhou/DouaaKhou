@@ -9,7 +9,6 @@
 I enjoy designing impactful applications where creativity meets technology.
 </p>
 
----
 
 <h3 align="center" >Tech Stack</h3>
 <p align="center">
@@ -30,6 +29,7 @@ I enjoy designing impactful applications where creativity meets technology.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
+---
 
 <h3 align="center">Let's Connect</h3>
 <p align="center">
