@@ -11,8 +11,8 @@ I enjoy designing impactful applications where creativity meets technology.
 
 ---
 
-### 💻 Tech Stack
 <p align="center">
+  <h3>Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -30,10 +30,10 @@ I enjoy designing impactful applications where creativity meets technology.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📫 Let's Connect
+
 <p align="center">
+   <h3>Let's Connect</h3>
   <a href="https://www.linkedin.com/in/douaa-khoudmi-4997041b2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
