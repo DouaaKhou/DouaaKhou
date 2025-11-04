@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Douaa Khoudmi</h1>
 
-<h2 align="center">
+<h3 align="center">
 🎓 Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation
-</h2>
+</h3>
 
 <p align="center">
 🚀 Currently building intelligent systems connecting <strong>AI</strong> and <strong>Web Development</strong>. 
@@ -29,7 +29,7 @@ I enjoy designing impactful applications where creativity meets technology.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
----
+
 
 <h2 align="center">Let's Connect</h2>
 <p align="center">
