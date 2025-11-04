@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Douaa Khoudmi</h1>
 
-<p align="center">
+<h2 align="center">
 🎓 Final-year Computer Engineering Student | 💡 Passionate about AI & Web Innovation
-</p>
+</h2>
 
 <p align="center">
 🚀 Currently building intelligent systems connecting <strong>AI</strong> and <strong>Web Development</strong>. 
@@ -10,7 +10,7 @@ I enjoy designing impactful applications where creativity meets technology.
 </p>
 
 
-<h3 align="center" >Tech Stack</h3>
+<h2 align="center" >Tech Stack</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -31,7 +31,7 @@ I enjoy designing impactful applications where creativity meets technology.
 
 ---
 
-<h3 align="center">Let's Connect</h3>
+<h2 align="center">Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/douaa-khoudmi-4997041b2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
