@@ -34,7 +34,7 @@ I love designing impactful applications where creativity meets technology.
 
 ### Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/douaa-khoudmi-4997041b2" target="_blank">
+  <a href="[www.linkedin.com/in/douaa-khoudmi-4997041b2](https://www.linkedin.com/in/douaa-khoudmi-4997041b2/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="mailto:douaa.khoudmi29@gmail.com">
